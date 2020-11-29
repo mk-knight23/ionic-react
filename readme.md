@@ -1,7 +1,7 @@
 # Ionic React Example
 
 
-# DEMO : 
+# DEMO : https://ionic-react-git-master.mk-knight23.vercel.app/home
 
 This directory is a brief example of an [Ionic React](https://ionicframework.com/docs/react/overview) app that can be deployed with Vercel and zero configuration
 
